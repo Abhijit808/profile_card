@@ -83,6 +83,10 @@ span{
     flex-direction: column;
     
 }
+.attribution{
+    text-align: center;
+    background:#f3f3f3;;
+}
 @media screen and (max-width:990px) {
     .card{
         width: 40%;
